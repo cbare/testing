@@ -1,0 +1,1 @@
+There's some text in a file called foo. Blah blah blither blather bonk.
