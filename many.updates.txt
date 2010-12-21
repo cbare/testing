@@ -4,3 +4,10 @@ Updates:
 1) Here's one!
 2) Another update.
 3) More updates. Updates, updates, updates!
+
+I'm going to try squashing commits. Let's see if it works.
+
+Squashing commits:
+1) squash me, baby
+2) squish-squash
+3) more squashing. I like it.
