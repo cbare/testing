@@ -14,3 +14,4 @@ Squashing commits:
 
 Fiddling about:
 1) a first example of fiddling about
+2) fiddling about in another branch
