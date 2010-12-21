@@ -11,3 +11,6 @@ Squashing commits:
 1) squash me, baby
 2) squish-squash
 3) more squashing. I like it.
+
+Fiddling about:
+1) a first example of fiddling about
