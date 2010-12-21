@@ -16,3 +16,7 @@ Fiddling about:
 1) a first example of fiddling about
 2) fiddling about in another branch
 3) more fiddling about. It's tasty.
+4) Squashed into a single commit?
+   a) flippety
+   b) dippety
+   c) doo
